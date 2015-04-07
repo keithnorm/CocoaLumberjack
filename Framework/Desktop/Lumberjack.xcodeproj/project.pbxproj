@@ -61,7 +61,6 @@
 		E58078E61A01C92F008819CA /* CocoaLumberjack.h in Headers */ = {isa = PBXBuildFile; fileRef = E5D89BA41994749300C180CF /* CocoaLumberjack.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E58078E71A01C92F008819CA /* DDFileLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DA9C20C3192A0E0000AB7171 /* DDFileLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E58078FC1A01C975008819CA /* CocoaLumberjack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55BCB5C619D4BB6E0096E784 /* CocoaLumberjack.swift */; };
-		E58079631A032F92008819CA /* DDLegacyMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = E58079621A032F92008819CA /* DDLegacyMacros.h */; };
 		E5D89BA71994749300C180CF /* CocoaLumberjack.h in Headers */ = {isa = PBXBuildFile; fileRef = E5D89BA41994749300C180CF /* CocoaLumberjack.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E5D89BA81994749300C180CF /* DDAssertMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = E5D89BA51994749300C180CF /* DDAssertMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E5D89BA91994749300C180CF /* DDLogMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = E5D89BA61994749300C180CF /* DDLogMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -393,7 +392,6 @@
 				DA9C20D3192A0E0000AB7171 /* DDASLLogCapture.h in Headers */,
 				DA9C20E0192A0E0000AB7171 /* DDDispatchQueueLogFormatter.h in Headers */,
 				DA9C20DB192A0E0000AB7171 /* DDLog+LOGV.h in Headers */,
-				E58079631A032F92008819CA /* DDLegacyMacros.h in Headers */,
 				DA9C20D1192A0E0000AB7171 /* DDAbstractDatabaseLogger.h in Headers */,
 				E5D89BA91994749300C180CF /* DDLogMacros.h in Headers */,
 				DA9C20DC192A0E0000AB7171 /* DDTTYLogger.h in Headers */,
